@@ -16,7 +16,7 @@ A Python-based tool that verifies the integrity of log files using SHA-256 hashi
 
 
 ## Project Structure
-
+https://roadmap.sh/projects/file-integrity-checker
 integrity-check/
 │
 ├── integrity_check.py   # Main Python script
